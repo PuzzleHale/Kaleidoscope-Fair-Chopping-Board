@@ -1,0 +1,18 @@
+{
+  "type": "kaleidoscope_cookery:chopping_board",
+  "cut_count": 4,
+  "ingredient": {
+    "item": "minecraft:rabbit"
+  },
+  "model_id": "kaleidoscope_cookery:raw_rabbit",
+  "result": [
+    {
+      "count": 8,
+      "id": "kaleidoscope_cookery:raw_cut_small_meats"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:bone"
+    }
+  ]
+}
